@@ -1,0 +1,10 @@
+.footer {
+  padding: 2rem 1rem; /* 32px 16px */
+  background-color: var(--bg-white);
+}
+
+.footer-description {
+  text-align: center;
+  font-size: 1rem; /* 16px */
+  font-weight: 500;
+}
